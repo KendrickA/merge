@@ -13,7 +13,7 @@ public class Merge {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// my comments more commentat
+		// my comments more commentater
 		for (int i=0;i<10;i++){
 			
 			System.out.println("Mege Test");
