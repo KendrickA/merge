@@ -15,10 +15,8 @@ public class Merge {
 	public static void main(String[] args) {
 		// my comments more commentater
 		// this is on the the new branch addcaps
-		for (int i=0;i<10;i++){
-			
-			System.out.println("Mege Test");
-			
+		for (int i=0;i<10;i++){		
+			System.out.println("Mege Test frep change change on branch");		
 		}
 
 	}
