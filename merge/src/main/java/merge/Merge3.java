@@ -24,7 +24,7 @@ public class Merge3 {
 	
 		// TODO Auto-generated method stub
 		for (Integer intVal : ints){
-			System.out.println("Mege Test frep change change on branch");
+			System.out.println("Mege Test frep change change on branch newer");
 			System.out.println(intVal.toString());
 		}
 
