@@ -17,7 +17,7 @@ public class Merge {
 		// this is on the the new branch addcaps
 		// my comments more commentater
 		// this is on the the new branch addcaps andd freps
-		for (int i=0;i<9;i++){
+		for (int i=0;i<14;i++){
 			System.out.println("Mege Test frep change change on branch");
 			
 		}
